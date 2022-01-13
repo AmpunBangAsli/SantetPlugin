@@ -1,0 +1,19 @@
+name: SantetPlugin
+version: '${project.version}'
+main: santetplugin.santetplugin.Main
+api-version: 1.16
+authors: [ AmpunBang_ ]
+description: Ini Santet Plugin Dibikin Karna Gabut Aja(#APAITUSKRIPT)
+commands:
+  santet:
+    usage: /<commands>
+
+  santet-custom:
+    usage: /<commands>
+
+  santet-ban:
+    usage: /<commands>
+
+  santet-unban:
+    usage: /<commands>
+
